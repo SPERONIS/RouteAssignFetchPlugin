@@ -17,8 +17,10 @@
     }
 ###### 使用时：
 
+`
   Class1 class1 = new Class1();
   Class1 class11 = SetValueByRoute("Classs2.Classs3.Prop3","2222223213sda") as Class1;
   Console.WriteLine(class1.GetValueByRoute("Classs2.Classs3.Prop3"));
+`
   
  
