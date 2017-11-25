@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteAssignFetchPlugin", "RouteAssignFetchPlugin.csproj", "{4EA4EBE8-78B4-40C8-88A7-D95181397A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickStart", "QuickStart\QuickStart.csproj", "{6FD5D21C-1738-444A-846B-13FFB290404C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA4EBE8-78B4-40C8-88A7-D95181397A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA4EBE8-78B4-40C8-88A7-D95181397A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA4EBE8-78B4-40C8-88A7-D95181397A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA4EBE8-78B4-40C8-88A7-D95181397A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD5D21C-1738-444A-846B-13FFB290404C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD5D21C-1738-444A-846B-13FFB290404C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD5D21C-1738-444A-846B-13FFB290404C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD5D21C-1738-444A-846B-13FFB290404C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5F1219-8095-4871-B68F-2B3146ACBB8C}
+	EndGlobalSection
+EndGlobal
